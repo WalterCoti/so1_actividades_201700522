@@ -3,11 +3,11 @@
 ## Paso 1: Creación de Usuarios
 
 1. Creación de Usuarios: Crea tres usuarios llamados `usuario1`, `usuario2` y `usuario3`
-![Paso 1](/img/p1.png)
+![Paso 1](/actividad3/img/p1.png)
 
 
 2. Asignación de Contraseñas: Establece una nueva contraseñas para cada usuario creado.
-![Paso 1](/img/p2.png)
+![Paso 1](/actividad3/img/p2.png)
 
 
 3. Información de Usuarios: Muestra la información de `usuario1` usando el comando `id`.
@@ -16,7 +16,7 @@
 
 4. Eliminación de Usuarios: Elimina `usuario3`, pero conserva su directorio principal.
 
-![Paso 1](/img/p3.png)
+![Paso 1](/actividad3/img/p3.png)
 
 
 ## Parte 2: Gestión de Grupos
@@ -30,7 +30,7 @@
 4. Eliminar Grupo: Elimina `grupo2`.
 
 
-![Paso 2](/img/p4.png)
+![Paso 2](/actividad3/img/p4.png)
 
 ## Parte 3: Gestión de Permisos
 1. Creación de Archivos y Directorios:
